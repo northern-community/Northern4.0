@@ -785,7 +785,7 @@
                         </font>
                        </property>
                        <property name="text">
-                        <string notr="true">&lt;a href=&quot;https://nortcrypto.com/&quot;&gt;https://nortcrypto.com/&lt;/a&gt;</string>
+                        <string notr="true">&lt;a href=&quot;Coming Soon /&quot;&gt; Coming Soon &lt;/a&gt;</string>
                        </property>
                        <property name="textFormat">
                         <enum>Qt::RichText</enum>
@@ -846,7 +846,7 @@
                         </font>
                        </property>
                        <property name="text">
-                        <string notr="true">&lt;a href=&quot;https://github.com/northern-community&quot;&gt;https://github.com/northern-community&lt;/a&gt;</string>
+                        <string notr="true">&lt;a href=&quot;https://github.com/northern-community/Northern4.0&quot;&gt;https://github.com/northern-community/Northern4.0&lt;/a&gt;</string>
                        </property>
                        <property name="alignment">
                         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -975,7 +975,7 @@
                         </font>
                        </property>
                        <property name="text">
-                        <string notr="true">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.vaultwatch.eu/apiresult.php?mode=mninfo&amp;amp;coin=nort&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://www.vaultwatch.eu/apiresult.php?mode=mninfo&amp;amp;coin=nort&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                        <string notr="true">&lt;a href=&quot;Coming Soon &quot;&gt; Coming Soon&lt;/a&gt;</string>
                        </property>
                        <property name="alignment">
                         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -1004,7 +1004,7 @@
                         </font>
                        </property>
                        <property name="text">
-                        <string notr="true">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.vaultwatch.eu/apiresult.php?mode=recommend&amp;amp;coin=nort&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://www.vaultwatch.eu/apiresult.php?mode=recommend&amp;amp;coin=nort&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                        <string notr="true">&lt;a href=&quot;Coming soon &quot;&gt; Coming soon &lt;/a&gt;</string>
                        </property>
                        <property name="alignment">
                         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -1033,7 +1033,7 @@
                         </font>
                        </property>
                        <property name="text">
-                        <string notr="true">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;http://northernexchanges.com/&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;http://northernexchanges.com/&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                        <string notr="true">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot; Coming Soon &quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt; Coming Soon &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
                        </property>
                        <property name="alignment">
                         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
@@ -1052,7 +1052,7 @@
                         </font>
                        </property>
                        <property name="text">
-                        <string notr="true">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;a href=&quot;https://www.vaultwatch.eu/index.php&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#0000ff;&quot;&gt;https://www.vaultwatch.eu/index.php&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+                        <string notr="true">&lt;a href=&quot; Coming Soon &quot;&gt; Coming Soon &lt;/a&gt;</string>
                        </property>
                        <property name="alignment">
                         <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignVCenter</set>
